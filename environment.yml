@@ -1,0 +1,10 @@
+name: glidertoolsdemo
+channels:
+  - conda-forge
+dependencies:
+        - gsw
+        - glidertools
+        - jupyter
+        - cmocean
+        - plotly
+        - pykrige
