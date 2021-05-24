@@ -1,4 +1,4 @@
-name: glidertoolsdemo
+name: glidertoolsdemo0
 channels:
   - conda-forge
 dependencies:
